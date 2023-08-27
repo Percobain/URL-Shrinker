@@ -1,6 +1,4 @@
 
-
-
 import pyshorteners
 url = input("Enter the Url : ")
 
